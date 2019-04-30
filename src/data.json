@@ -1,0 +1,130 @@
+{
+  "movies" : [{
+    "id": 1,
+  "name":"Sholay",
+  "img": "/images/sholay.jpeg",
+  "description":"After his family is murdered by a notorious and ruthless bandit, a former police officer enlists the services of two outlaws to capture the bandit.",
+  "releaseDate": "23rd June 1976",
+  "ratings":"8.9",
+  "comments": [
+    {
+      "text":"Good Movie",
+      "rating":"7",
+      "name":"Vijay Tambe"
+
+    },
+    {
+      "text":"Best Movie",
+      "rating":"9",
+      "name":"Anish Bhanwala"
+    },
+    {
+      "text":"Worst Movie",
+      "rating":"6",
+      "name":"Shrikant Shinde"
+    }
+  ]
+},{
+  "name":"Rang De Basanti",
+    "id": 2,
+    "img": "/images/rdb.jpeg",
+  "description":"After his family is murdered by a notorious and ruthless bandit a former police officer enlists the services of two outlaws to capture the bandit.",
+  "releaseDate": "23rd May 2003",
+  "ratings":"8.9",
+  "comments": [
+    {
+      "text":"Movie of the decade",
+      "rating":"10",
+      "name":"Vijay Tambe"
+
+    },
+    {
+      "text":"Could be better",
+      "rating":"7",
+      "name":"Anish Bhanwala"
+    },
+    {
+      "text":"Nice Movie",
+      "rating":"8",
+      "name":"Shrikant Shinde"
+    }
+  ]
+},
+  {
+    "name":"3 Idiots",
+    "id": 2,
+    "img": "/images/3idiots.jpeg",
+    "description":"former police officer enlists the services of two outlaws to capture the bandit.",
+    "releaseDate": "23rd May 2003",
+    "ratings":"8.9",
+    "comments": [
+      {
+        "text":"Movie of the decade",
+        "rating":"10",
+        "name":"Vijay Tambe"
+
+      },
+      {
+        "text":"Could be better",
+        "rating":"7",
+        "name":"Anish Bhanwala"
+      },
+      {
+        "text":"Nice Movie",
+        "rating":"8",
+        "name":"Shrikant Shinde"
+      }
+    ]
+  },
+  {
+    "name":"Lagaan",
+    "id": 4,
+    "img": "/images/lagaan.jpeg",
+    "description":"After his family is murdered by a notorious and ruthless bandit,  former police officer enlists the services of two outlaws to capture the bandit.",
+    "releaseDate": "23rd May 2003",
+    "ratings":"8.9",
+    "comments": [
+      {
+        "text":"Movie of the decade",
+        "rating":"10",
+        "name":"Vijay Tambe"
+
+      },
+      {
+        "text":"Could be better",
+        "rating":"7",
+        "name":"Anish Bhanwala"
+      },
+      {
+        "text":"Nice Movie",
+        "rating":"8",
+        "name":"Shrikant Shinde"
+      }
+    ]
+  },
+  {
+    "name":"Lakshya",
+    "id": 5,
+    "img": "/images/lakshya.jpeg",
+    "description":"After his family is murdered by a notorious and ruthless bandit, former police officer enlists the services of two outlaws to capture the bandit.",
+    "releaseDate": "23rd May 2003",
+    "ratings":"8.9",
+    "comments": [
+      {
+        "text":"Movie of the decade",
+        "rating":"10",
+        "name":"Vijay Tambe"
+
+      },
+      {
+        "text":"Could be better",
+        "rating":"7",
+        "name":"Anish Bhanwala"
+      },
+      {
+        "text":"Nice Movie",
+        "rating":"8",
+        "name":"Shrikant Shinde"
+      }
+    ]
+  }]}
